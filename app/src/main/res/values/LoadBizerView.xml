@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadBizerView">
+        <attr name="loadColor" format="color"></attr>
+        <attr name="unLoadColor" format="color"></attr>
+        <attr name="circleColor" format="color"></attr>
+        <attr name="loadTextColor" format="color"></attr>
+        <attr name="radius" format="dimension"></attr>
+        <attr name="loadTextSize" format="integer"></attr>
+    </declare-styleable>
+</resources>
